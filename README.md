@@ -57,6 +57,10 @@ pip install pandas numpy scikit-learn matplotlib seaborn
 Run all cells step by step
 View predictions and results
 
+Colab Notebook
+
+https://colab.research.google.com/drive/1RG88lUIqBZUPfWlq5RXxyDUpl2Vtv9Jj#scrollTo=Ca9JQplnjntL
+
 Future Improvements
 
 Use deep learning models for better accuracy
